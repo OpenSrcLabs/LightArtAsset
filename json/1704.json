@@ -1,0 +1,39 @@
+{
+  "description": "LightArt is an NFT project inpsired by the N project.",
+  "image": "https://raw.githubusercontent.com/LightArtNFT/LightArtAsset/master/png/1704.png",
+  "name": "LightArt #1704",
+  "traits": [
+    {
+      "trait_type": "FIRST",
+      "value": "4"
+    },
+    {
+      "trait_type": "SECOND",
+      "value": "3"
+    },
+    {
+      "trait_type": "THIRD",
+      "value": "7"
+    },
+    {
+      "trait_type": "FOURTH",
+      "value": "9"
+    },
+    {
+      "trait_type": "FIFTH",
+      "value": "5"
+    },
+    {
+      "trait_type": "SIXTH",
+      "value": "9"
+    },
+    {
+      "trait_type": "SEVENT",
+      "value": "3"
+    },
+    {
+      "trait_type": "EIGHT",
+      "value": "1"
+    }
+  ]
+}
